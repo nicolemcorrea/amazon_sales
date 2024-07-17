@@ -33,6 +33,8 @@ Identificar e compreender os principais fatores que influenciam a pontuação e 
 <details>
  <summary><strong style="font-size: 16px;">Processo e Técnicas de Análise</strong></summary>
 
+- Dataset: contém 2 conjuntos de dados com classificações e informações de produtos disponíveis para venda na Amazon. O primeiro  dispõe de informações sobre os produtos (categoria, preço, % desconto, etc.) e o outro com as informações sobre as avaliações do produto (quem enviou a avaliação, título da avaliação, conteúdo da avaliação, classificação do produto, etc.).
+
 - ETL (Extract, Transform, Load): tratamento e limpeza de nulos, duplicados, dados fora do alcance da análise, criação de novas variáveis, o cálculo de quartis e segmentação. Também se realizou a conversão de variáveis categóricas em dummy.
 
 - Processamento de Linguagem Natural (PLN): criação de um score de sentimento para a variável review_content, para análise de sentimentos em textos. Implementada através da biblioteca NLTK (Natural Language Toolkit);
