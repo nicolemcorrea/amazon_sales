@@ -39,7 +39,7 @@ Identificar e compreender os principais fatores que influenciam a pontuação e 
 
 - Modelagem Estatística: Teste de Shapiro-Wilk para verificar a normalidade dos dados, correlação de Spearman, Teste de Significância (Mann-Whitney) e Regressão linear e logística.
  
-- Visualização de Dados: através de dashboard interativo no Power BI..
+- Visualização de Dados: através de dashboard interativo no Power BI.
   
 </details>
 
@@ -68,4 +68,4 @@ Identificar e compreender os principais fatores que influenciam a pontuação e 
 
 - Criar incentivos para avaliações, pedidos claros de feedback após a compra e um processo fácil e acessível para deixar avaliações;
 
-Uso da análise de sentimento para identificar padrões nas avaliações, para identificação da satisfação dos clientes e gerar pontos de melhoria.
+- Uso da análise de sentimento para identificar padrões nas avaliações, para identificação da satisfação dos clientes e gerar pontos de melhoria.
