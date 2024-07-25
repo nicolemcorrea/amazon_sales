@@ -71,3 +71,9 @@ Identificar e compreender os principais fatores que influenciam a pontuação e 
 - Criar incentivos para avaliações, pedidos claros de feedback após a compra e um processo fácil e acessível para deixar avaliações;
 
 - Uso da análise de sentimento para identificar padrões nas avaliações, para identificação da satisfação dos clientes e gerar pontos de melhoria.
+
+</details>
+
+## Dashboard 
+
+![Análise de produtos da Amazon](https://raw.githubusercontent.com/nicolemcorrea/amazon_sales/blob/main/amazon_dashboard.pdf)
