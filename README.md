@@ -76,4 +76,4 @@ Identificar e compreender os principais fatores que influenciam a pontuação e 
 
 ## Dashboard 
 
-![Análise de produtos da Amazon](https://raw.githubusercontent.com/nicolemcorrea/amazon_sales/main/amazon_dashboard.png)
+![Análise de produtos da Amazon](https://raw.githubusercontent.com/nicolemcorrea/amazon_sales/main/amazon_dashboard.jpg)
